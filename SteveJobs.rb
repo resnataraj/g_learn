@@ -1,4 +1,10 @@
 class SteveJobs1
-class SteveJobs
+  def Stev
+  end
+
+  def Jobs
+  end
+
+  def Paul
+  end
 end
-//
